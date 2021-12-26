@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import LoadMessageFunctional from './LoadMessageFunctional'
 
 function App() {
   return (
     <div className="App">
-     React App
+     <LoadMessageFunctional />
     </div>
   );
 }
